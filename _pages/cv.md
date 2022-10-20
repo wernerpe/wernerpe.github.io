@@ -11,21 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mechanical and Process Engineering, ETH Zuerich, 2020
+* M.S. in Robotics Systems and Control, ETH Zuerich, 2022
+* Ph.D in Electrical Engineering and Computer Science, Massachusetts Institute of Technology (in progress)
 
 Work experience
 ======
 * Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Placeholder
   
 Skills
 ======
@@ -56,4 +49,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43dfadf placeholder different slack teams
