@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Peter Werner"
-  avatar           : "prof1.jpeg"
-  bio              : "Bio Placeholder ###"
+  avatar           : "prof2.jpeg"
+  bio              : "EECS PhD Student @ CSAIL, MIT"
   location         : "Cambridge, MA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=M5HFiMIAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
