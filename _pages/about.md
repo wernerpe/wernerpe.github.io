@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi this is me placeholder
+Please return in 4 to 5 business days, this site is under construction :)
