@@ -11,11 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mechanical and Process Engineering, ETH Zuerich, 2020
-* M.S. in Robotics Systems and Control, ETH Zuerich, 2022
+* B.S. in Mechanical and Process Engineering, ETH Zürich, 2020
+* M.S. in Robotics Systems and Control, ETH Zürich, 2022
 * Ph.D in Electrical Engineering and Computer Science, Massachusetts Institute of Technology (in progress)
 
-Work experience
+<embed src="/files/cv.pdf" type="application/pdf">
+
+<!-- Work experience
 ======
 * Summer 2015: Research Assistant
   * Placeholder
@@ -49,4 +51,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43dfadf placeholder different slack teams
+* Currently signed in to 43dfadf placeholder different slack teams -->
