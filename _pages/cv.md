@@ -15,7 +15,7 @@ Education
 * M.S. in Robotics Systems and Control, ETH Zürich, 2022
 * Ph.D in Electrical Engineering and Computer Science, Massachusetts Institute of Technology (in progress)
 
-<embed src="/files/cv.pdf" width=80% height="{height}" type="application/pdf" >
+<embed src="/files/cv.pdf" width=80% height=80% type="application/pdf">
 
 <!-- Work experience
 ======
