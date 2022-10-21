@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<!-- Education
 ======
 * B.S. in Mechanical and Process Engineering, ETH Zürich, 2020
 * M.S. in Robotics Systems and Control, ETH Zürich, 2022
-* Ph.D in Electrical Engineering and Computer Science, Massachusetts Institute of Technology (in progress)
+* Ph.D in Electrical Engineering and Computer Science, Massachusetts Institute of Technology (in progress) -->
 
 <embed src="/files/cv.pdf" width="700px" height="900px" type="application/pdf">
 
