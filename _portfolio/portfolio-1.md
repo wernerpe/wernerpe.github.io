@@ -4,4 +4,5 @@ excerpt: "Hi"
 collection: portfolio
 ---
 Test
-![badminton](../images/badmintonVSGIF.gif)
+
+![badminton](/images/badmintonVSGIF.gif)
