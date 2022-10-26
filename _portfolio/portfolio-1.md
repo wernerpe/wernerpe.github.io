@@ -1,8 +1,7 @@
 ---
 title: "ALMA learns something almost, but not quite, entirely unlike badminton"
-excerpt: "Hi"
+excerpt: "<br> ![badminton](/images/badmintonVSGIF.gif)"
 collection: portfolio
 ---
-Test
 
 ![badminton](/images/badmintonVSGIF.gif)
