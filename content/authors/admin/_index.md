@@ -88,7 +88,7 @@ My name is Peter Werner. I am a 3rd-year Ph.D. student in Prof. Daniela Rus’ l
 
 My research interests are broadly centered around Mathematics, Control Theory, Optimization, and Robotics. While my interests tend more towards theory and software, I have a deep appreciation for hardware. I find nothing more convincing than an actual hardware system executing an approach - there is no hiding or glossing over details.
 
-Anyways, if I am not in the lab you can probably find me running along the Charles River, hiking in the Whites, skiing back home in Switzerland, or playing badminton. My role models include Wile E. Coyote (*SuPeR gEnIouS*), André Franquin's [Gaston](https://www.pipelinecomics.com/gomer-the-goof-v1-mind-the-goof/), and Calvin from [Calvin and Hobbes](https://en.wikipedia.org/wiki/Calvin_and_Hobbes) by Bill Watterson.
+Anyways, if I am not in the lab you can probably find me running along the Charles River, hiking in the Whites, skiing back home in Switzerland, or playing badminton. I also enjoy drawing inspiration from great engineers and inventors such as [Wile E. Coyote](https://www.youtube.com/watch?v=lghIDQSbxw8) (*SuPeR gEnIouS*), André Franquin's [Gaston](https://www.pipelinecomics.com/gomer-the-goof-v1-mind-the-goof/), and Calvin from [Calvin and Hobbes](https://en.wikipedia.org/wiki/Calvin_and_Hobbes) by Bill Watterson.
 
 If you have any questions regarding my work *or funny memes to share*, feel free to contact me at {wernerpe} at {mit.edu}!
 {style="text-align: justify;"}
