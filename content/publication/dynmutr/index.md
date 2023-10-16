@@ -50,11 +50,11 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://openreview.net/pdf?id=fvXFBCHVGn'
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_poster: ''
-#url_project: ''
+url_project: 'https://sites.google.com/view/dynmutr/home'
 #url_slides: ''
 #url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_video: 'https://youtu.be/HbDL8EWZ5h8'
