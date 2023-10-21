@@ -91,4 +91,6 @@ My research interests are broadly centered around Mathematics, Control Theory, O
 Anyways, if I am not in the lab you can probably find me running along the Charles River, hiking in the Whites, skiing back home in Switzerland, or playing badminton. I also enjoy drawing inspiration from great engineers and inventors such as [Wile E. Coyote](https://www.youtube.com/watch?v=lghIDQSbxw8) (*SuPeR gEnIouS*), André Franquin's [Gaston](https://www.pipelinecomics.com/gomer-the-goof-v1-mind-the-goof/), and Calvin from [Calvin and Hobbes](https://en.wikipedia.org/wiki/Calvin_and_Hobbes) by Bill Watterson.
 
 If you have any questions regarding my work *or funny memes to share*, feel free to contact me at {wernerpe} at {mit.edu}!
+
+<font size="4"> <br> *If you can tell me what artist the picture in the tab label is referencing I will buy you a coffee.*</font>
 {style="text-align: justify;"}
