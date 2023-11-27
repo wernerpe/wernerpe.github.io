@@ -211,18 +211,9 @@ sections:
       title: Gallery
       subtitle:
       text: |-
-        Alma learns badminton with PPO <br>
-        
-        <img src="../../assets/media/badmintonVSGIF.gif" alt="badminton" width="600"/> <br>
-
-        Emergent teaming behavior (red team) <br> 
-        
-        <img src="../../assets/media/racing.gif" alt="racing" width="600"/> <br>
-
-        Model-based Swingup with feedback from pixels <br> 
-        
-        <img src="../../assets/media/swingup.gif" alt="swingup" width="600"/> <br>
-
+        Alma learns badminton with PPO <br>![badminton](../../assets/media/badmintonVSGIF.gif ) 
+        Emergent teaming behavior (red team) <br>![racing](../../assets/media/racing.gif)
+        Model-based swing up with feedback from pixels <br>![pendulum](../../assets/media/swingup.gif)
       # Contact (add or remove contact options as necessary)
 #       email: test@example.org
 #       phone: 888 888 88 88
