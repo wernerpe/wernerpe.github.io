@@ -211,9 +211,9 @@ sections:
       title: Gallery
       subtitle:
       text: |-
-        Alma learns badminton with PPO <br><img src="https://wernerpe.github.io/assets/media/badmintonVSGIF.gif" width = "600"><br>
-        Emergent teaming behavior from multi-agent RL (red team) <br><img src="https://wernerpe.github.io/assets/media/racing2.gif" width = "600"><br>
-        Swing up with tactile feedback (Gain scheduled LQR + Catching MPC)<br><img src="https://wernerpe.github.io/assets/media/swingup2.gif" width = "600"><br>
+        Alma learns badminton with PPO <br><img src="https://wernerpe.github.io/files/badmintonVSGIF.gif" width = "600"><br>
+        Emergent teaming behavior from multi-agent RL (red team) <br><img src="https://wernerpe.github.io/files/racing2.gif" width = "600"><br>
+        Swing up with tactile feedback (Gain scheduled LQR + Catching MPC)<br><img src="https://wernerpe.github.io/files/swingup2.gif" width = "600"><br>
       # Contact (add or remove contact options as necessary)
 #       email: test@example.org
 #       phone: 888 888 88 88
