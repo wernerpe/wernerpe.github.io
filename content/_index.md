@@ -211,9 +211,9 @@ sections:
       title: Gallery
       subtitle:
       text: |-
-        Alma learns badminton with PPO <br>![badminton](../../assets/media/badmintonVSGIF.gif ) 
-        Emergent teaming behavior (red team) <br>![racing](../../assets/media/racing.gif)
-        Model-based swing up with feedback from pixels <br>![pendulum](../../assets/media/swingup.gif)
+        Alma learns badminton with PPO <br><img src="../../assets/media/badmintonVSGIF.gif" width = "600"><br>
+        Emergent teaming behavior from multi-agent RL (red team) <br><img src="../../assets/media/racing.gif" width = "600"><br>
+        Swing up with tactile feedback (Gain scheduled LQR + Catching MPC)<br><img src="../../assets/media/swingup.gif" width = "600"><br>
       # Contact (add or remove contact options as necessary)
 #       email: test@example.org
 #       phone: 888 888 88 88
