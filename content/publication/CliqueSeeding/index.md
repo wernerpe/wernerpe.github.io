@@ -42,18 +42,18 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+ - name: Website
+   url: 'https://sites.google.com/view/cspacevcc/home'
 
 url_pdf: 'https://arxiv.org/abs/2310.02875'
-#url_code: 'https://github.com/tseyde/decqn'
+url_code: 'https://github.com/AlexandreAmice/drake/tree/iris_from_clique_cover/cspace_lightweight'
 #url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_poster: ''
 #url_project: ''
 #url_slides: ''
 #url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-#url_video: 'https://youtu.be/HbDL8EWZ5h8'
+url_video: 'https://www.youtube.com/watch?v=x37fPVST6Zk'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

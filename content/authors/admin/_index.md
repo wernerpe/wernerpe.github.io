@@ -92,5 +92,5 @@ Anyways, if I am not in the lab you can probably find me running along the Charl
 
 If you have any questions regarding my work *or funny memes to share*, feel free to contact me at {wernerpe} at {mit.edu}!
 
-<font size="4"> <br> *If you can tell me what artist the picture in the tab label is referencing I will buy you a coffee* =) </font>
+<font size="4"> <br> *If you can guess what artist the favicon is referencing I will buy you a coffee* =) </font>
 {style="text-align: justify;"}
