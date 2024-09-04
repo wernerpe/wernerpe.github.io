@@ -84,7 +84,7 @@ highlight_name: true
 ---
 Hi there!
 
-My name is Peter Werner. I am a 3rd-year Ph.D. student in Prof. Daniela Rus’ lab at the Computer Science and Artificial Intelligence Laboratory (CSAIL) at MIT.
+My name is Peter Werner. I am a 4th-year Ph.D. student in Prof. Daniela Rus’ lab at the Computer Science and Artificial Intelligence Laboratory (CSAIL) at MIT.
 
 My research interests are broadly centered around Mathematics, Control Theory, Optimization, and Robotics. While my interests tend more towards theory and software, I have a deep appreciation for hardware. I find nothing more convincing than an actual hardware system executing an approach - there is no hiding or glossing over details.
 
