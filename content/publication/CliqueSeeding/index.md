@@ -34,7 +34,7 @@ publication_types: ['paper-conference']
 abstract: Many computations in robotics can be dramatically accelerated if the robot configuration space is described as a collection of simple sets. For example, recently developed motion planners rely on a convex decomposition of the free space to design collision-free trajectories using fast convex optimization. In this work, we present an efficient method for approximately covering complex configuration spaces with a small number of polytopes.The approach constructs a visibility graph using sampling and generates a clique cover of this graph to find clusters of samples that have mutual line of sight. These clusters are then inflated into large, full-dimensional, polytopes. We evaluate our method on a variety of robotic systems and show that it consistently covers larger portions of free configuration space, with fewer polytopes, and in a fraction of the time compared to previous methods.
 
 # Summary. An optional shortened abstract.
-summary: We propose an algorithmic appraoch to approximating robot configuration space with a small collection of convex sets. First, the algorithm constructs a visibility graph using sampling, then a small clique cover of the visibility graph is computed, and finally the cliques are inflated to full-dimensional polytopes that are collision free. <font size="4"> <br> *[arXiv, 2023]*</font>
+summary: We propose an algorithmic appraoch to approximating robot configuration space with a small collection of convex sets. First, the algorithm constructs a visibility graph using sampling, then a small clique cover of the visibility graph is computed, and finally the cliques are inflated to full-dimensional polytopes that are collision free. <font size="4"> <br> *[ICRA, 2024]*</font>
 
 tags: []
 
@@ -46,7 +46,7 @@ links:
  - name: Website
    url: 'https://sites.google.com/view/cspacevcc/home'
 
-url_pdf: 'https://arxiv.org/abs/2310.02875'
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/10610005'
 url_code: 'https://github.com/AlexandreAmice/drake/tree/iris_from_clique_cover/cspace_lightweight'
 #url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_poster: ''
